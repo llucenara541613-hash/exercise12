@@ -1,0 +1,36 @@
+.cat{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30;
+    background-color: green;
+    height: 500px;
+    width: 500px;
+    float: left;
+    margin-right: 20px;
+
+}
+.dog{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30;
+    background-color: red;
+    height: 500px;
+    width: 500px;
+    float: left;
+    margin-right: 20px;
+}
+
+.cat img, .dog img{
+    width: 200px;
+    height: 200;
+    float: left;
+    margin-left: 20px;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 110%;
+}
